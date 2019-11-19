@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tempting-offer.ru	TRUE	/	FALSE	1999999999	a562hash	8437efc8f479379c4e6412ac54ce6ca4
+tempting-offer.ru	TRUE	/	FALSE	1999999999	a562fhash	mobcross-fourmodel
+.tempting-offer.ru	TRUE	/	FALSE	1999999999	__cfduid	d14531a56b697c01cfd7925e4d8191e261569609646
+

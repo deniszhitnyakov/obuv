@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Fri, 27 Sep 2019 21:39:58 at https://tempting-offer.ru/mobcross-fourmodel/
+(httrack https://tempting-offer.ru/mobcross-fourmodel/ -F "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0" -C0 -N1004 -n -I0 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:40:47	Error: 	"Not Found" (404) at link tempting-offer.ru/mobcross-fourmodel/css/owl.video.play.png (from tempting-offer.ru/mobcross-fourmodel/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 seconds : 42 links scanned, 39 files written (634943 bytes overall) [495550 bytes received at 10113 bytes/sec], 232884 bytes transferred using HTTP compression in 15 files, ratio 29%, 4.6 requests per connection
+(1 errors, 0 warnings, 0 messages)
